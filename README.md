@@ -1,3 +1,3 @@
 This is the EmiCalculator
 <br>
-.by RZQ
+.by RZQ (Developer)
